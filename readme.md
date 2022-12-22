@@ -96,3 +96,5 @@ int main() {
 }
 ```
 ## Output
+No 1
+<img src="https://github.com/faridmuhtarfathir/UAS-PRAKTIKUM-DASPROG/blob/main/Screenshot%20(9).png">
