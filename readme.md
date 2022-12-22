@@ -1,12 +1,15 @@
 # Ujian Akhir Semester 
 <br>Mata Kuliah 	: Dasar Pemograman 
 <br> Nama	      	: Farid Muhtar Fathir
-<br>NIM		        :	1227050044
-<br>Jurusan		    :[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+<br>NIM		        : 1227050044
+<br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-code No.1
-menjelaskan tentang array 2 dimensi yang membuat kolom dan baris
+source code No.1
+menjelaskan tentang array 2 dimensi yang membuat kolom dan baris. dengan nilai kolom menjadi baris dan nilai baris menjadi kolom
+
+source code No.2
+menjelaskan tentang array 2 dimensi tentang deret matematika yang tidak habis dibagi menjadi 3, 5, dan 7
 
 ## Source Code
 Source code No.1
@@ -100,4 +103,4 @@ No.1
 <img src="https://github.com/faridmuhtarfathir/UAS-PRAKTIKUM-DASPROG/blob/main/Screenshot%20(9).png">
 
 No.2
-<img src="
+<img src="https://github.com/faridmuhtarfathir/UAS-PRAKTIKUM-DASPROG/blob/main/Screenshot%20(11).png">
